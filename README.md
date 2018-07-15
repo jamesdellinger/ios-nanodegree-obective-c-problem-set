@@ -9,15 +9,15 @@ This repository contains the Objective-C Problem Set project for the **Objective
 The Objective-C Problem Set is a collection of small iOS apps and code challenges that use both Objective-C and Swift. It is designed to serve as preparation for the most common causes of friction between Objective-C and Swift.
 
 ```
-└── Problem Set/
-   ├── PlaneTicket/
-   ├── Sweatshirt/
-   ├── Animals_Swift/
-   ├── Toolbox/
-   ├── RegiftErrorEnum.swift
-   ├── Guitar_SwiftSpecific/
-   ├── GuitarString/
-   └── RPS_Mixed/
+└── Problem Set
+   ├── 1-PlaneTicket
+   ├── 2-Sweatshirt
+   ├── 3-Animals_Swift
+   ├── 4-Toolbox
+   ├── 5-RegiftErrorEnum.swift
+   ├── 6-Guitar_SwiftSpecific
+   ├── 7-GuitarString
+   └── 8-RPS_Mixed
 ```
 
 ## Project Grading and Evaluation
